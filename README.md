@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibbi</h1>
 <h3 align="center">A fullstack web developer based in British Columbia, Canada</h3>
 
-- 🔭 I’m currently working on **@100Devs**
+- 🔭 I’m currently working on **freelancing clients projects**
 
 - 👨‍💻 All of my projects are available at [https://iacodes.netlify.app/](https://iacodes.netlify.app/)
 
